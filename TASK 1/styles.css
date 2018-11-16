@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+
+}
+
+.a
+{
+    background-color:white;
+    text-align: center; 
+}
+
+.b
+{
+    text-align: center;
+    color: white;
+    height: 20px;
+
+    padding: 25px;
+    margin: 25px;
+
+    border: 2px dashed blue;
+
+    margin-left: 550px;
+    margin-right: 550px;
+
+    border-radius: 8px;
+
+
+}

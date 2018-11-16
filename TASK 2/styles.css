@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: black;
+    height: 1000px;
+
+}
+
+.a
+{
+    background-color:white;
+    text-align: center; 
+}
+
+.b
+{
+    text-align: center;
+    color: white;
+    height: 20px;
+
+    padding: 25px;
+    margin: 25px;
+
+    border: 2px dashed blue;
+
+    margin-left: 550px;
+    margin-right: 550px;
+
+    border-radius: 8px;
+
+
+}
+
+.full-box
+{
+    background-color: red;
+    height: 300px;
+}
+
+.middle-box
+{
+    background-color: green;
+    height: 100px;
+
+    margin-left: 500px;
+    margin-right: 500PX;
+    margin-top: 75px;
+
+    text-align: center;
+    font-weight: bold;
+    padding: 25px;
+
+
+
+
+}
